@@ -1,4 +1,4 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+git clone https://github.com/plusjade/jekyll-bootstrap.git ahmadwahyudi.github.io
+cd ahmadwahyudi.github.com
+git remote set-url origin git@github.com:ahmadwahyudi/ahmadwahyudi.github.com.git
+git push origin master
